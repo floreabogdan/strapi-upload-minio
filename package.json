@@ -1,0 +1,17 @@
+{
+  "name": "strapi-upload-minio",
+  "version": "1.0.0",
+  "description": "MINIO provider for strapi upload",
+  "main": "./lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minio": "^7.0.1"
+  }
+}
