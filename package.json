@@ -1,5 +1,5 @@
 {
-  "name": "strapi-upload-minio",
+  "name": "strapi-upload-minio-unofficial",
   "version": "1.0.0",
   "description": "MINIO provider for strapi upload",
   "main": "./lib",
@@ -9,9 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Bogdan Florea",
+  "license": "MIT",
   "dependencies": {
     "minio": "^7.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floreabogdan/strapi-upload-minio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/floreabogdan/strapi-upload-minio/issues"
+  },
+  "homepage": "https://github.com/floreabogdan/strapi-upload-minio#readme"
 }
