@@ -3,7 +3,7 @@
 ## Installation and basic usage
 ```cd plugins/upload```
 
-```npm install --save strapi-upload-minio```
+```npm install --save strapi-upload-minio-unofficial```
 
 start your strapi application and go to: plugins => files upload settings
 
