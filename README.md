@@ -26,3 +26,7 @@ NOTE: bucket policy must be set to allow your file to be readable. (just set it 
 - [Strapi website](http://strapi.io/)
 - [Strapi community on Slack](http://slack.strapi.io)
 - [Strapi news on Twitter](https://twitter.com/strapijs)
+
+
+---
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/floreabogdan)
